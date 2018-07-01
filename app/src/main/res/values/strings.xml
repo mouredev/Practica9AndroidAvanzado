@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Brais Marvel Heroes</string>
+
+    <string name="review">My review</string>
+
+    <!-- Animations -->
+    <string name="image_transition">imageTransition</string>
+
+</resources>
